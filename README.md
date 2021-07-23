@@ -12,14 +12,14 @@ A curated list of some of the technical works of Apolo Pena
   - Takes about 5 to 6 minutes to build for the first time.
 - ### [gitpod-phpmyadmin](https://github.com/apolopena/gitpod-phpmyadmin)
   - Develop MySql and phpMyAdmin based projects in the cloud.
-  - Runs on the [Gitpod](https://www.gitpod.io/) platform and requires a valid github login to view it.
+  - Runs on the [Gitpod](https://www.gitpod.io/) platform and requires a valid github login to [view it](https://gitpod.io/#/https://github.com/apolopena/gitpod-phpmyadmin).
   - Takes about 3 minutes to build for the first time.
 
 ## Javascript and Typescript:
 - ### [Questions and Answers Web Feature](https://gitpod.io/#/https://github.com/apolopena/qna-typescript)
   - Real-time example of how I code a fullstack Typescript/React web feature.
   - Runs on the Gitpod platform and requires a valid github login to view it. Can be deployed anywhere.
-  - Source code, built with [gitpod-laravel-starter](https://github.com/apolopena/gitpod-laravel-starter) can be found [here](https://github.com/apolopena/qna-typescript-demo-skeleton/tree/main/resources/js).
+  - [Source code](https://github.com/apolopena/qna-typescript-demo-skeleton/tree/main/resources/js), built with `gitpod-laravel-starter` can be found [here](https://github.com/apolopena/qna-typescript-demo-skeleton/tree/main/resources/js).
 - ### [ecommerce website example using React and Redux](https://github.com/apolopena/crwn-clothing/)
   - Source code I learned the ins and outs of from an extensive React Redux, Hooks, and GraphQL Udemy course I took.
 - ### [Devzen](https://github.com/apolopena/devzen/tree/main/scripts/node)
