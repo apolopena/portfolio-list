@@ -1,4 +1,5 @@
-# apolopena/portfolio-list
+# <img src="img/cartoon-apolo-av.jpg" alt="Apolo Pena" width="200"/> apolopena/portfolio-list
+
 A curated list of some of the technical works of Apolo Pena
 
 ## Software
@@ -40,4 +41,3 @@ A curated list of some of the technical works of Apolo Pena
    - A responsive, dynamic color palettes with shades, tints, tones and triadic tones.
  - ### [Text Tinter](https://codepen.io/ApoloPena/pen/xxZzpaM)
    - A colorized text engine.
-
