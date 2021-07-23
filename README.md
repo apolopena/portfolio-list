@@ -16,7 +16,7 @@ A curated list of some of the technical works of Apolo Pena
   - Runs on the [Gitpod](https://www.gitpod.io/) platform and requires a valid github login to [view it](https://gitpod.io/#/https://github.com/apolopena/gitpod-phpmyadmin).
   - Takes about 3 minutes to build for the first time.
 
-## Javascript and Typescript:
+## Javascript and Typescript
 - ### [Questions and Answers Web Feature](https://gitpod.io/#/https://github.com/apolopena/qna-typescript)
   - Real-time example of how I code a fullstack Typescript/React web feature.
   - Runs on the Gitpod platform and requires a valid github login to view it. Can be deployed anywhere.
