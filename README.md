@@ -11,6 +11,10 @@ A curated list of some of the technical works of Apolo Pena
   - Builds an entire development environment in the cloud utilizing Typescript, React, Laravel, MySql and [phpMyAdmin](https://www.phpmyadmin.net/)
   - Runs on the Gitpod platform and requires a valid github login to view it.
   - Takes about 5 to 6 minutes to build for the first time.
+- ### [gp-react-on-rails-starter](https://github.com/apolopena/gp-react-on-rails-starter)
+  - Get up and running very quickly with Ruby and React using [`react_on_rails`](https://github.com/shakacode/react_on_rails) and a few other useful dependencies.
+  - Runs on the Gitpod platform and requires a valid github login to view it.
+  - Takes about 4 minutes to build for the first time.
 - ### [gitpod-phpmyadmin](https://github.com/apolopena/gitpod-phpmyadmin)
   - Develop MySql and phpMyAdmin based projects in the cloud.
   - Runs on the [Gitpod](https://www.gitpod.io/) platform and requires a valid github login to [view it](https://gitpod.io/#/https://github.com/apolopena/gitpod-phpmyadmin).
