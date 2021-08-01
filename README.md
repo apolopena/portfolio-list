@@ -12,9 +12,13 @@ A curated list of some of the technical works of Apolo Pena
   - Runs on the Gitpod platform and requires a valid github login to view it.
   - Takes about 5 to 6 minutes to build for the first time.
 - ### [gp-react-on-rails-starter](https://github.com/apolopena/gp-react-on-rails-starter)
-  - Get up and running quickly with Ruby on Rails, postgreSQL, webpack and React. Implements [`react_on_rails`](https://github.com/shakacode/react_on_rails) and a few other useful dependencies.
+  - Ruby on Rails, postgreSQL, webpack and React using [`react_on_rails`](https://github.com/shakacode/react_on_rails), Tailwind CSS and others.
   - Runs on the Gitpod platform and requires a valid github login to view it.
   - Takes about 5 minutes to build for the first time.
+_ ### [express-react-starter](https://github.com/apolopena/express-react-starter)
+  - A full stack express/react starting point. Implements express, react, mysql, mocha and supertest.
+  - Runs locally *or* in the cloud on the Gitpod platform.
+  - A basic integration test for the server and the database is also included.
 - ### [gitpod-phpmyadmin](https://github.com/apolopena/gitpod-phpmyadmin)
   - Develop MySql and phpMyAdmin based projects in the cloud.
   - Runs on the [Gitpod](https://www.gitpod.io/) platform and requires a valid github login to [view it](https://gitpod.io/#/https://github.com/apolopena/gitpod-phpmyadmin).
