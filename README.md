@@ -43,6 +43,8 @@ A curated list of some of the technical works of Apolo Pena
    - An example ecommerce website that I learned the ins and outs of. Built from the [Complete React Developer in 2021 w/ Redux, Hooks, GraphQL Udemy course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/).
 
 ## Gists
+  - ### [badips.sh](https://gist.github.com/apolopena/4d87616e1d88191faee2ffa20f199e2a)
+    - CLI tool to dump or report on unauthorized server access attempts. Requires sudo.
   - ### [tmux-named-sessions.sh](https://gist.github.com/apolopena/69ea26552e53cddb9ff501ae503aa350)
     - Creates new (or attaches to existing) `tmux` sessions using an '.icon' file.
 ## Codepens
