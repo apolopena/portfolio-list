@@ -7,7 +7,7 @@ A curated list of some of the technical works of Apolo Pena
   - A Configurable LAMP or LEMP stack starter project powered by Laravel and [Gitpod](https://www.gitpod.io/).
   - Automates DevOps processes that provide, customizable, auto-configured development environments in the cloud.
   - Preset front-ends for React, Vue and Bootstrap. Preset examples for React, Typescript and Vue.
-- ### [Fullstack Laravel/Typescript/React "Quetions and Answers" example in the cloud](https://gitpod.io/#EXAMPLE=3/https://github.com/apolopena/gitpod-laravel-starter)
+- ### [Fullstack Laravel/Typescript/React "Questions and Answers" example in the cloud](https://gitpod.io/#EXAMPLE=3/https://github.com/apolopena/gitpod-laravel-starter)
   - Builds an entire development environment in the cloud utilizing Typescript, React, Laravel, MySql and [phpMyAdmin](https://www.phpmyadmin.net/)
   - Runs on the Gitpod platform and requires a valid github login to view it.
   - Takes about 5 to 6 minutes to build for the first time.
